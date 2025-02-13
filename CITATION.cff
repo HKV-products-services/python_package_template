@@ -7,14 +7,6 @@ authors:
     given-names: Guy
   -
     affiliation: "HKV lijn in water"
-    family-names: Nicolai
-    given-names: Robin
-  -
-    affiliation: "HKV lijn in water"
-    family-names: Pol
-    given-names: Joost
-  -
-    affiliation: "HKV lijn in water"
     family-names: Haasnoot
     given-names: David
 
@@ -23,4 +15,4 @@ keywords:
   - Waterveiligheid
 license: "GPL-3.0-or-later"
 message: "If you use this software, please cite it using these metadata."
-title: Probabilistic piping
+title: python_package_template

@@ -12,8 +12,9 @@ class Example(BaseModel):
     factor : float
         Power factor for calculation
     """
+
     factor: float
-    
+
     def calculation(
         self,
         a: np.array,
@@ -33,7 +34,7 @@ class Example(BaseModel):
         -------
             Updated results.
         """
-        
+
         # Perform the calculation
         result = (a + b) ** self.factor
 
