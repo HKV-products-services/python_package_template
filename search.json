@@ -46,6 +46,6 @@
     "href": "examples/notebooks/introduction.html",
     "title": "Introduction to Python_package_template",
     "section": "",
-    "text": "This is an example of how the documentation could work\n\nfrom pathlib import Path\nimport numpy as np\nimport matplotlib.pyplot as plt\nfrom python_package_template import Example\n\n\nexample = Example(factor=2)\nresult = example.calculation(np.array([1, 2, 3]), np.array([4, 5, 6]))\n\n\nresult\n\narray([25., 49., 81.])\n\n\n\nplt.title(\"Example showing the documentation \")\nplt.plot(result);"
+    "text": "This is an example of how the documentation could work\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nfrom python_package_template import Example\n\n\nexample = Example(factor=2)\nresult = example.calculation(np.array([1, 2, 3]), np.array([4, 5, 6]))\n\n\nresult\n\narray([25., 49., 81.])\n\n\n\nplt.title(\"Example showing the documentation \")\nplt.plot(result);"
   }
 ]
