@@ -7,20 +7,6 @@
     "text": "This package contains a template for python projects. This is developed by HKV and is published under the GNU GPL-3 license."
   },
   {
-    "objectID": "reference/index.html",
-    "href": "reference/index.html",
-    "title": "API Reference",
-    "section": "",
-    "text": "Example\nExample class"
-  },
-  {
-    "objectID": "reference/index.html#python_package_template",
-    "href": "reference/index.html#python_package_template",
-    "title": "API Reference",
-    "section": "",
-    "text": "Example\nExample class"
-  },
-  {
     "objectID": "reference/Example.html",
     "href": "reference/Example.html",
     "title": "Example",
@@ -47,5 +33,19 @@
     "title": "Introduction to Python_package_template",
     "section": "",
     "text": "This is an example of how the documentation could work\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nfrom python_package_template import Example\n\n\nexample = Example(factor=2)\nresult = example.calculation(np.array([1, 2, 3]), np.array([4, 5, 6]))\n\n\nresult\n\narray([25., 49., 81.])\n\n\n\nplt.title(\"Example showing the documentation \")\nplt.plot(result);"
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "API Reference",
+    "section": "",
+    "text": "Example\nExample class"
+  },
+  {
+    "objectID": "reference/index.html#python_package_template",
+    "href": "reference/index.html#python_package_template",
+    "title": "API Reference",
+    "section": "",
+    "text": "Example\nExample class"
   }
 ]
