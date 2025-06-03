@@ -1,6 +1,7 @@
 # Python_package_template
 
 This template package contains core functionality for a python package, developed to showcase and speed up the process of developing a python package. This Python package template is developed by HKV and is published under the GNU GPL-3 license.
+The current package name is `python_package_template`, if you search for this in your IDE (e.g. VS Code) you can replace these with your given name. 
 
 ## Getting started
 
