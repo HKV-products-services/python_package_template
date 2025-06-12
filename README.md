@@ -1,7 +1,27 @@
 # Python_package_template
 
 This template package contains core functionality for a python package, developed to showcase and speed up the process of developing a python package. This Python package template is developed by HKV and is published under the GNU GPL-3 license.
-The current package name is `python_package_template`, if you search for this in your IDE (e.g. VS Code) you can replace these with your given name. 
+
+## Configuring the template (remove before publishing)
+
+### Naming
+
+The current package name is `python_package_template`, if you search for this in your IDE (e.g. VS Code) you can replace these with your given name.
+
+### Pre-commit
+
+This repo has an example pre-commit configuration in `.pre-commit-config.yaml`.
+Depending on your needs you might want to uncomment certain sections.
+Let us know by making an issue if we missed a useful pre-commit.
+
+### GitHub Tests
+
+In the folder `.github` there are four workflows which run automatically.
+You will need to adjust these depending on your needs. 
+
+### Pixi
+
+Read bellow for more information on pixi and a quick guideline you can include in your project.
 
 ## Getting started
 
