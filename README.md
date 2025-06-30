@@ -1,4 +1,4 @@
-# Python_package_template
+# Python package template
 
 This template package contains core functionality for a python package, developed to showcase and speed up the process of developing a python package. This Python package template is developed by HKV and is published under the GNU GPL-3 license.
 
@@ -6,7 +6,7 @@ This template package contains core functionality for a python package, develope
 
 ### Naming
 
-The current package name is `python_package_template`, if you search for this in your IDE (e.g. VS Code) you can replace these with your given name.
+The current package name is `python_package_template` and `# Python package template`, if you search for this in your IDE (e.g. VS Code) you can replace these with your given name.
 
 ### Pre-commit
 
@@ -33,17 +33,23 @@ run `pip install Python_package_template`
 
 To manage the environment we use Pixi.
 
-#### windows
+<details>
+<summary>windows</summary>
 
 ```powershell
 iwr -useb https://pixi.sh/install.ps1 | iex
 ```
 
-#### Linux/Mac
+</details>
+
+<details>
+<summary>Linux/Mac</summary>
 
 ```bash
 curl -fsSL https://pixi.sh/install.sh | bash
 ```
+</details>
+
 
 #### installing
 
