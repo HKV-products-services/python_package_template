@@ -15,24 +15,20 @@ class Example(BaseModel):
 
     factor: float
 
-    def calculation(
-        self,
-        a: np.array,
-        b: np.array,
-    ) -> np.array:
+    def calculation(self, a: np.array, b: np.array) -> np.array:
         """
         Perform a probabilistic calculation.
 
         Parameters
         ----------
-        a : np.array
+        a: np.array
             a parameter.
-        b : np.array
+        b: np.array
             b parameter
 
         Returns
         -------
-            Updated results.
+        Results: Updated results.
         """
 
         # Perform the calculation

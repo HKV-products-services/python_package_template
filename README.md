@@ -17,7 +17,7 @@ Let us know by making an issue if we missed a useful pre-commit.
 ### GitHub Tests
 
 In the folder `.github` there are four workflows which run automatically.
-You will need to adjust these depending on your needs. 
+You will need to adjust these depending on your needs.
 
 ### Pixi
 
