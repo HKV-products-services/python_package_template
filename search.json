@@ -25,7 +25,7 @@
     "href": "reference/Example.html",
     "title": "Example",
     "section": "",
-    "text": "Example()\nExample class\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\nfactor\nfloat\nPower factor for calculation\n\n\n\n\n\n\n\n\n\nName\nDescription\n\n\n\n\ncalculation\nPerform a probabilistic calculation.\n\n\n\n\n\nExample.calculation(a, b)\nPerform a probabilistic calculation.\n\n\n\n\n\nName\nType\nDescription\nDefault\n\n\n\n\na\nnp.array\na parameter.\nrequired\n\n\nb\nnp.array\nb parameter\nrequired\n\n\n\n\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\n\nUpdated results."
+    "text": "Example()\nExample class\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\nfactor\nfloat\nPower factor for calculation\n\n\n\n\n\n\n\n\n\nName\nDescription\n\n\n\n\ncalculation\nPerform a probabilistic calculation.\n\n\n\n\n\nExample.calculation(a, b)\nPerform a probabilistic calculation.\n\n\n\n\n\nName\nType\nDescription\nDefault\n\n\n\n\na\nnp.array\na parameter.\nrequired\n\n\nb\nnp.array\nb parameter\nrequired\n\n\n\n\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\nResults\nUpdated results."
   },
   {
     "objectID": "reference/Example.html#attributes",
@@ -39,7 +39,7 @@
     "href": "reference/Example.html#methods",
     "title": "Example",
     "section": "",
-    "text": "Name\nDescription\n\n\n\n\ncalculation\nPerform a probabilistic calculation.\n\n\n\n\n\nExample.calculation(a, b)\nPerform a probabilistic calculation.\n\n\n\n\n\nName\nType\nDescription\nDefault\n\n\n\n\na\nnp.array\na parameter.\nrequired\n\n\nb\nnp.array\nb parameter\nrequired\n\n\n\n\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\n\nUpdated results."
+    "text": "Name\nDescription\n\n\n\n\ncalculation\nPerform a probabilistic calculation.\n\n\n\n\n\nExample.calculation(a, b)\nPerform a probabilistic calculation.\n\n\n\n\n\nName\nType\nDescription\nDefault\n\n\n\n\na\nnp.array\na parameter.\nrequired\n\n\nb\nnp.array\nb parameter\nrequired\n\n\n\n\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\nResults\nUpdated results."
   },
   {
     "objectID": "index.html",
