@@ -13,6 +13,7 @@ The current package name is `python_package_template` and `# Python package temp
 This repo has an example pre-commit configuration in `.pre-commit-config.yaml`.
 Depending on your needs you might want to uncomment certain sections.
 Let us know by making an issue if we missed a useful pre-commit.
+Use `pre-commit install --hook-type pre-commit --hook-type pre-push` to automatically run pre-commit.
 
 ### GitHub Tests
 
