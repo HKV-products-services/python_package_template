@@ -1,4 +1,4 @@
-[project]
+[workspace]
 name = "Python_package_template"
 version = "0.0.1"
 description = "Python package template"
