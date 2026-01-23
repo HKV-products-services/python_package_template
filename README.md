@@ -1,6 +1,8 @@
-# Python package template
+# Python package template [Pixi]
 
-This template package contains core functionality for a python package, developed to showcase and speed up the process of developing a python package. This Python package template is developed by HKV and is published under the GNU GPL-3 license.
+[Pixi](https://pixi.prefix.dev/latest/) manages packages broarder sence and thus replaces `conda`. [UV](https://docs.astral.sh/uv/) is a package which is a replacement for `pip` in package managing for python. The alternative python package template for uv can be found at [HKV-products-services/python_package_template_uv](https://github.com/HKV-products-services/python_package_template_uv). Depending on your needs one is more suited than the other.
+
+This template package contains core functionality for a python package, developed to showcase and speed up the process of developing a python package. This Python package template is developed by HKV, though based heavily on other open source projects and is published under the GNU GPL-3 license.
 
 ## Configuring the template (remove before publishing)
 
