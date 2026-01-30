@@ -40,7 +40,7 @@ pre-commit = "pre-commit run --all-files"
     #"T201",  # Use of print statement (use print() function instead)
 #]
 
-[feature.common.dependencies]
+[dependencies]
 python = ">=3.11"
 ipykernel ="*"
 ipywidgets ="*"
@@ -59,8 +59,5 @@ quartodoc = ">=0.9.1"
 ruff = ">=0.8.1"
 tqdm = "*"
 
-[feature.common.pypi-dependencies]
+[pypi-dependencies]
 python_package_template = { path = "src", editable = true }
-
-[environments]
-default = { features = ["common"] }
